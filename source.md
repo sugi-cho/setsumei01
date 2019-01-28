@@ -1,13 +1,13 @@
 # 映像演出システム
 
-Author: Hironori Sugino / WideWireWorks
+Author: [Hironori Sugino](https://github.com/sugi-cho) / [WideWireWorks](https://www.widewireworks.jp/)
 
 ---
 
 ## 概要
 
-- 第69回NHK紅白歌合戦のLED映像演出に使用したシステム
-- 今後、展示やライブ、様々なコンテンツの核になるよう拡張していく
+- 仮想空間と現実空間をつなぐ演出システム
+- 第69回NHK紅白歌合戦の舞台演出に使用した
 
 ---
 
